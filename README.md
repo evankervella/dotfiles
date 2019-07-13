@@ -1,6 +1,6 @@
 # dotfiles
 
-My .files mainly done by the **AWESOME** [https://github.com/TommyStarK]
+My .files mainly done by the **awesome** https://github.com/TommyStarK
 
 **WARNING** Use at your own risk :/
 
